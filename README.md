@@ -15,3 +15,4 @@
 <h4>🦾 Challenges Faced</h4>
       <p>&emsp;&emsp;🦾 DB updating </p>
       
+Check Query File: https://github.com/Dharun-Srikanth/E-Commerce-JDBC/blob/master/QueryFile.sql
